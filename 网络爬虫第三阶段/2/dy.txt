@@ -1,0 +1,274 @@
+{
+    "title": [
+        "2019年西班牙7.9分科幻片《海市蜃楼》BD中字修复"
+    ],
+    "href": "https://www.dy2018.com/i/100628.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-23/c197af7d1fb530b9196bcd1019ef20f6.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　海市蜃楼"
+    ]
+}{
+    "title": [
+        "2019年欧美8.9分剧情片《绿皮书》BD中英双字修复"
+    ],
+    "href": "https://www.dy2018.com/i/100548.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-02-20/428e5df1eb5e1e1ec16d6165d86e20ee.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　绿皮书 "
+    ]
+}{
+    "title": [
+        "2018年德国8.3分剧情片《无主之作》BD中英双字"
+    ],
+    "href": "https://www.dy2018.com/i/100673.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-04-02/e5780dcf749a7ba42420f3b1b1a26c89.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　无主之作"
+    ]
+}{
+    "title": [
+        "2018年国产喜剧片《武林怪兽》BD国粤双语中字"
+    ],
+    "href": "https://www.dy2018.com/i/100492.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-02-01/e6732f657ed0a91267b84facc9797a50.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　武林怪兽"
+    ]
+}{
+    "title": [
+        "2019年国美国6.8分冒险片《一条狗的回家路》BD中字"
+    ],
+    "href": "https://www.dy2018.com/i/100624.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-21/ed6117b7d61524986ca5c86e97879e72.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　A Dog's Way Home"
+    ]
+}{
+    "title": [
+        "2019年美国7.5分动画片《驯龙高手3》HD中字"
+    ],
+    "href": "https://www.dy2018.com/i/100668.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-31/fc2e73a25a904cc98fc6d32cd4d2d02b.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　How To Train Your Dragon: The Hidden World"
+    ]
+}{
+    "title": [
+        "2018年韩国7.5分剧情片《国家破产之日》BD韩语中字"
+    ],
+    "href": "https://www.dy2018.com/i/100665.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-31/fb7aceed4e84e259b25be5babade8ba7.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　국가부도의 날"
+    ]
+}{
+    "title": [
+        "2018年西班牙惊悚片《警告》BD中字"
+    ],
+    "href": "https://www.dy2018.com/i/100663.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-31/ecc5df9c37a95db36d6fe5c5158c178e.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　警告 El aviso"
+    ]
+}{
+    "title": [
+        "2019年国产7.0分喜剧片《飞驰人生》HD国语中字"
+    ],
+    "href": "https://www.dy2018.com/i/100658.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-29/688e3218df4443165ab9ec258fe5ee1e.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　飞驰人生"
+    ]
+}{
+    "title": [
+        "2019年香港犯罪片《廉政风云》HD国粤双语中字"
+    ],
+    "href": "https://www.dy2018.com/i/100633.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-24/2838efbeaf852b182153cfc3e6be806b.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　Integrity"
+    ]
+}{
+    "title": [
+        "2019年泰国6.5分动作片《三重威胁之跨国大营救》BD中英双字"
+    ],
+    "href": "https://www.dy2018.com/i/100629.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-23/11ba2671bd441e7904127361615e0c5d.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　三重威胁之跨国大营救"
+    ]
+}{
+    "title": [
+        "2018年欧美7.8分奇幻片《海王》BD国语中字"
+    ],
+    "href": "https://www.dy2018.com/i/100480.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-01-24/6b5302044194312e3701f9d6f9a33106.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　Aquaman"
+    ]
+}{
+    "title": [
+        "2018年日本8.7分剧情片《小偷家族》BD日语中字"
+    ],
+    "href": "https://www.dy2018.com/i/100543.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-02-16/19b30d7fcc62b78ea70f5efb1b97317e.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　小偷家族"
+    ]
+}{
+    "title": [
+        "2018年美国7.2分科幻片《大黄蜂》BD中英双字修复"
+    ],
+    "href": "https://www.dy2018.com/i/100463.html",
+    "img": [],
+    "movi_name": [
+        "◎译　　名　Bumblebee"
+    ]
+}{
+    "title": [
+        "2018年国产6.0分动作片《叶问外传：张天志》BD国粤双语中字"
+    ],
+    "href": "https://www.dy2018.com/i/100509.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-02-08/8130748ea0d1a89bf82199d071c43a21.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　葉問外傳：張天志"
+    ]
+}{
+    "title": [
+        "2018年欧美8.7分动作片《蜘蛛侠：平行宇宙》BD双语双字"
+    ],
+    "href": "https://www.dy2018.com/i/100549.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-02-21/84c27fb1425725603b6717d444c30006.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　蜘蛛侠：平行宇宙"
+    ]
+}{
+    "title": [
+        "2019年国产6.0分爱情片《一吻定情》HD国语中字"
+    ],
+    "href": "https://www.dy2018.com/i/100608.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-16/15c100eb544e72139afd59dab528d4f9.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　一吻定情"
+    ]
+}{
+    "title": [
+        "2018年美国6.7分传记片《副总统》BD中英双字"
+    ],
+    "href": "https://www.dy2018.com/i/100603.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-15/2b7b3a5763ff4a3540f25df2b444938e.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　副总统 Vice"
+    ]
+}{
+    "title": [
+        "2019年国产喜剧动作片《神探蒲松龄》HD国粤双语中字"
+    ],
+    "href": "https://www.dy2018.com/i/100587.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-11/33c8b138950136b4e020cc1232bc3370.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　神探蒲松龄"
+    ]
+}{
+    "title": [
+        "2018年国产7.4分动作片《影》BD国语中字"
+    ],
+    "href": "https://www.dy2018.com/i/100295.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2018-11-30/955740e5a7faec4f0eec4c131a36d281.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　影"
+    ]
+}{
+    "title": [
+        "2019年国产6.4分喜剧片《疯狂外星人》HD高清国语中字修复"
+    ],
+    "href": "https://www.dy2018.com/i/100585.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-10/e795380b3e7648887fb8570a103665b8.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　疯狂的外星人"
+    ]
+}{
+    "title": [
+        " 2019年国产6.4分喜剧片《新喜剧之王》HD国粤双语中字"
+    ],
+    "href": "https://www.dy2018.com/i/100584.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-10/29004c70f9cee56be2a8a2c46adc586e.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　新喜剧之王"
+    ]
+}{
+    "title": [
+        "2018年欧美8.4分剧情片《迦百农》BD中字"
+    ],
+    "href": "https://www.dy2018.com/i/100576.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-04/7e7bd5835ff856b643c0c93ac01b6b49.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　迦百农 كفرناحوم"
+    ]
+}{
+    "title": [
+        "2019年国产8.0分动画片《白蛇：缘起》HD国语中字"
+    ],
+    "href": "https://www.dy2018.com/i/100575.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-04/ca19e89f9482e83ca2f03960568328fb.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　白蛇：缘起"
+    ]
+}{
+    "title": [
+        "2019年国产6.7分动作片《大人物》HD国语中字"
+    ],
+    "href": "https://www.dy2018.com/i/100570.html",
+    "img": [
+        "https://img.18qweasd.com/d/file/html/gndy/dyzz/2019-03-01/25b7e636f525f4a69f34833392794798.jpg"
+    ],
+    "movi_name": [
+        "◎片　　名　“大”人物"
+    ]
+}

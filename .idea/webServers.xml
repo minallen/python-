@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="916e162e-f5f3-4763-b322-3574cf031e37" name="myspider" url="http://192.16.16.1">
+        <fileTransfer host="192.16.16.1" port="22" rootFolder="/home/baiaomin_python_code" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
